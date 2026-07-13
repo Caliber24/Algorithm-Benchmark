@@ -1,0 +1,14 @@
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\bin\Debug\net10.0\CSharp.exe
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\bin\Debug\net10.0\CSharp.deps.json
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\bin\Debug\net10.0\CSharp.runtimeconfig.json
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\bin\Debug\net10.0\CSharp.dll
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\bin\Debug\net10.0\CSharp.pdb
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\obj\Debug\net10.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\obj\Debug\net10.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\obj\Debug\net10.0\CSharp.AssemblyInfo.cs
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\obj\Debug\net10.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\obj\Debug\net10.0\CSharp.dll
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\obj\Debug\net10.0\refint\CSharp.dll
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\obj\Debug\net10.0\CSharp.pdb
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\obj\Debug\net10.0\CSharp.genruntimeconfig.cache
+C:\Users\amirh\Downloads\MasterHttpRelayVPN-python_testing\Algorithm-Benchmark\CSharp\obj\Debug\net10.0\ref\CSharp.dll
